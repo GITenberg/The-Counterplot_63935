@@ -1,5 +1,8 @@
 _repo: The-Counterplot_63935
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 63935-h/images/cover.jpg
 creator:
   author:
     agent_name: Mirrlees, Hope
@@ -9,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/52676
     wikipedia: https://en.wikipedia.org/wiki/Hope_Mirrlees
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/63935#The-Counterplot
 gutenberg_issued: '2020-12-01'
 gutenberg_type: Text
 identifiers:
